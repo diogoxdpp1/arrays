@@ -67,6 +67,7 @@ public class Main {
                     board[i][j] = board[randPos][randpos1];
                 }
                 System.out.println(board);
+                //doesnt work
             }
         }
     }
